@@ -35,3 +35,41 @@
 \\Mac\Home\Documents\Visual Studio 2012\Projects\GitHubWorkShop\GitHubWorkShop\obj\Debug\GitHubWorkShop.dll
 \\Mac\Home\Documents\Visual Studio 2012\Projects\GitHubWorkShop\GitHubWorkShop\obj\Debug\GitHubWorkShop.xml
 \\Mac\Home\Documents\Visual Studio 2012\Projects\GitHubWorkShop\GitHubWorkShop\obj\Debug\GitHubWorkShop.pdb
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\GitHubWorkShop.dll.config
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\GitHubWorkShop.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\GitHubWorkShop.pdb
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\GitHubWorkShop.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Antlr3.Runtime.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.Core.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\EntityFramework.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\System.Web.Optimization.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\System.Web.Providers.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\WebGrease.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\EntityFramework.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.Core.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\obj\Debug\GitHubWorkShop.vbprojResolveAssemblyReference.cache
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\obj\Debug\GitHubWorkShop.Resources.resources
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\obj\Debug\GitHubWorkShop.vbproj.GenerateResource.Cache
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\obj\Debug\GitHubWorkShop.dll
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\obj\Debug\GitHubWorkShop.xml
+C:\Users\Maraline Torres\Documents\GitHubWorkshop\GitHubWorkShop\obj\Debug\GitHubWorkShop.pdb
